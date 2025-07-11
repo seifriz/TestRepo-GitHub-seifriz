@@ -1,1 +1,1 @@
-Test GitHub for seifriz - Template PHYTON
+Test GitHub for seifriz - Template VS-Code
