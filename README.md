@@ -1,1 +1,1 @@
-Test GitHub for seifriz - Template VS-Code
+Test GitHub for "seifriz"
